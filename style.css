@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+}
+
+nav {
+    background: url(./cropped-bg.png);
+    width: 100%;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+    top: 0;
+    left: 0;
+}
+
+.A {
+    color: white;
+    font-size: large;
+    text-decoration: none;
+
+}
+
+.A:hover {
+    color: orange;
+    text-decoration: underline;
+
+}
+
+.B {
+    color: white;
+    font-size: 40px;
+}
+
+.B:hover {
+    color: orange;
+    text-decoration: none;
+}
+
+.C {
+    color: orange;
+    border: 1px solid orange;
+    background: transparent;
+}
+
+.C:hover {
+    color: white;
+}
+
+.D {
+    font-size: 16px;
+}
